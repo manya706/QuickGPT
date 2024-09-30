@@ -1,11 +1,11 @@
 <h1 align="center" style="font-size: 100px;">Quick GPT</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/TypeScript-v4.9-67b7f2?logo=typescript&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Chrome-Extension-ffcc00?logo=google-chrome&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/License-MIT-6cbf6b?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Version-1.0.0-007acc?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Contributions-Welcome-f9a826?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/TypeScript-v4.9-ffcc00?logo=typescript&style=flat&logoColor=white" />
+  <img src="https://img.shields.io/badge/Chrome-Extension-ff6699?logo=google-chrome&style=flat&logoColor=white" />
+  <img src="https://img.shields.io/badge/License-MIT-00cc99?style=flat&logoColor=white" />
+  <img src="https://img.shields.io/badge/Version-1.0.0-ff66cc?style=flat&logoColor=white" />
+  <img src="https://img.shields.io/badge/Contributions-Welcome-ffcc00?style=flat&logoColor=white" />
 </p>
 
 
