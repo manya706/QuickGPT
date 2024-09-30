@@ -27,8 +27,8 @@ This project leverages Chrome's context menu API and is built using TypeScript f
 ```bash
 /src
 ├── background.ts  # Handles context menu and API interaction
-├── content.ts     # Content script (optional, for page manipulation)
-├── popup.ts       # Popup script (if used)
+├── content.ts     # Content script 
+├── popup.ts       # Popup script 
 /manifest.json     # Chrome extension manifest
 /.env 
 ```
