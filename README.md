@@ -1,11 +1,13 @@
-# <p align="center">Quick GPT
+# <p align="center">Quick GPT</p>
 
-![TypeScript](https://img.shields.io/badge/TypeScript-v4.9-blue?logo=typescript&style=flat-square)
-![Chrome](https://img.shields.io/badge/Chrome-Extension-yellow?logo=google-chrome&style=flat-square)
-![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)
-![Version](https://img.shields.io/badge/Version-1.0.0-blue?style=flat-square)
-![Contributions Welcome](https://img.shields.io/badge/Contributions-Welcome-orange?style=flat-square)
+<p align="center">
+  <img src="https://img.shields.io/badge/TypeScript-v4.9-blue?logo=typescript&style=flat-square" />
+  <img src="https://img.shields.io/badge/Chrome-Extension-yellow?logo=google-chrome&style=flat-square" />
+  <img src="https://img.shields.io/badge/License-MIT-green?style=flat-square" />
+  <img src="https://img.shields.io/badge/Version-1.0.0-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/Contributions-Welcome-orange?style=flat-square" />
 </p>
+
 
 ## About
 
