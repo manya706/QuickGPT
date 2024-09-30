@@ -1,3 +1,6 @@
+import { config } from './config';
+
+const apiKey = config.GROQ_API_KEY; 
 chrome.runtime.onMessage.addListener(async (message, sender, sendResponse) => {
     if (message.type === "explain") {
       const explanation = await fetchExplanation(message.text);
