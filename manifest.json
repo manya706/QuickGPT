@@ -1,0 +1,23 @@
+{
+    "manifest_version": 3,
+    "name": "Explain with ChatGPT",
+    "version": "1.0",
+    "description": "Right-click to explain selected text using ChatGPT.",
+    "permissions": [
+      "contextMenus", 
+      "activeTab", 
+      "scripting"
+    ],
+    "background": {
+      "service_worker": "backend.js"
+    },
+    "action": {
+      "default_popup": "popup.html"
+    },
+    "icons": {
+      "16": "icon-16.png",
+      "48": "icon-48.png",
+      "128": "icon-128.png"
+    }
+  }
+  
