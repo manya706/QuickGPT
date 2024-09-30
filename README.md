@@ -10,7 +10,7 @@
 
 
 ## ⚡ About
-End the need of copy-pasting your desired text onto GPT pane.
+_End the need of copy-pasting your desired text onto GPT pane._
 The **Quick GPT** is designed to help users quickly understand selected text on any webpage. By integrating with the GROQ API, the extension fetches contextually relevant explanations for highlighted text, making it a useful tool for students, researchers, or anyone looking to gain insights without leaving the current page.
 
 This project leverages Chrome's context menu API and is built using TypeScript for a robust, maintainable codebase. The extension simplifies the process of getting explanations and makes accessing information more intuitive and user-friendly.
