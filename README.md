@@ -1,4 +1,4 @@
-<h1 align="center" style="font-size: 60px;">Quick GPT</h1>
+<h1 align="center" style="font-size: 100px;">Quick GPT</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/TypeScript-v4.9-blue?logo=typescript&style=flat-square" />
