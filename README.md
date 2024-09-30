@@ -1,7 +1,12 @@
 <h1><center>Quick GPT</center></h1>
 
-This Chrome extension provides users with an option to explain selected text by right-clicking on it. It fetches the explanation from the GROQ API and displays it in a simple dialog.
+## About
 
+The **Quick GPT** is designed to help users quickly understand selected text on any webpage. By integrating with the GROQ API, the extension fetches contextually relevant explanations for highlighted text, making it a useful tool for students, researchers, or anyone looking to gain insights without leaving the current page.
+
+This project leverages Chrome's context menu API and is built using TypeScript for a robust, maintainable codebase. The extension simplifies the process of getting explanations and makes accessing information more intuitive and user-friendly.
+
+`If you find this project helpful, please consider starring the repository on GitHub! ⭐`
 ## Features
 
 - Right-click on any selected text and choose "Explain Selected Text" from the context menu.
