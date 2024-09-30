@@ -37,5 +37,5 @@ This project leverages Chrome's context menu API and is built using TypeScript f
 - Chrome API: For managing context menus and active tabs.
 - dotenv: For managing environment variables.
 
-## 📜 License
-This project is licensed under the MIT License.
+#
+<p align="center">This project is licensed under the MIT License.</p>
